@@ -30,7 +30,7 @@ USAGE(){
     exit 1
 }
 
-mkdir -p /home/ec2-user/shellscript-logs/
+mkdir -p /home/ec2-user/shellscrip-logs/
 
 if [ $# -lt 2 ]
 then
